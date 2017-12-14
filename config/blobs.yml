@@ -1,5 +1,5 @@
 ---
-php-buildpack/php_buildpack-v4.3.45-bd46cab.zip:
-  object_id: php_buildpack-v4.3.45-bd46cab.zip
-  sha: bd46cab573936b8f0427a003f34f61d375ad4c5c
+php-buildpack/php_buildpack-v4.3.45-e2f730f.zip:
+  object_id: php_buildpack-v4.3.45-e2f730f.zip
+  sha: e2f730fb8a1621d3e18fbbb8af2a261d6f4565f4
   size: 299530
