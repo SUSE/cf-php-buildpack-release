@@ -1,5 +1,5 @@
 ---
-php-buildpack/php_buildpack-v4.3.49.1-495b485.zip:
-  object_id: php_buildpack-v4.3.49.1-495b485.zip
-  sha: 495b48548d8611d1013fe204c48aa88baabdf4ef
-  size: 331365
+php-buildpack/php_buildpack-v4.3.53.1-4cca0fe.zip:
+  object_id: php_buildpack-v4.3.53.1-4cca0fe.zip
+  sha: 4cca0fe2eaf76302ec8157c9bdff56c3caf15f17
+  size: 607620
