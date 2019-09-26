@@ -1,0 +1,4 @@
+---
+name: php-buildpack-sle15
+files:
+- php-buildpack/php-buildpack-sle15-*.zip
