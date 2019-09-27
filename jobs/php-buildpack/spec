@@ -3,7 +3,6 @@ name: php-buildpack
 templates: {}
 
 packages:
-- php-buildpack-sle12
 - php-buildpack-sle15
 
 properties: {}
