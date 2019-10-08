@@ -1,5 +1,5 @@
 ---
-final_name: php-buildpack
+final_name: suse-php-buildpack
 blobstore:
   provider: s3
   options:
