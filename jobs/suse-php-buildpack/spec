@@ -1,5 +1,5 @@
 ---
-name: php-buildpack
+name: suse-php-buildpack
 templates: {}
 
 packages:
