@@ -1,0 +1,21 @@
+name: suse-php-buildpack
+version: 4.4.2.1
+commit_hash: 53be4ef
+uncommitted_changes: false
+jobs:
+- name: suse-php-buildpack
+  version: d5d2c1de5d364edf84711cd2e9da03ebf9b10fba3b64b255c4bca9a669e67ab3
+  fingerprint: d5d2c1de5d364edf84711cd2e9da03ebf9b10fba3b64b255c4bca9a669e67ab3
+  sha1: sha256:650137619362cacf3b324ffb7766d300b7662fe00861588f0a07ad829d99ae75
+  packages:
+  - php-buildpack-sle15
+packages:
+- name: php-buildpack-sle15
+  version: 3ca0eb60f946dc6c84b4ef37800447c6e5d6157e628e78d9edbd0e6e1b162b98
+  fingerprint: 3ca0eb60f946dc6c84b4ef37800447c6e5d6157e628e78d9edbd0e6e1b162b98
+  sha1: sha256:625a06fcb799400e9fc232c64488a9245d58452129f77b50f0ab7ab51a20654b
+  dependencies: []
+license:
+  version: c8c627d579583321ff263581b6202a6ac73a5017e17a09df2d3081abe9da1ce4
+  fingerprint: c8c627d579583321ff263581b6202a6ac73a5017e17a09df2d3081abe9da1ce4
+  sha1: sha256:7fd2775ce512af6a95223727aea457713946c73622649cf5c4b3611d7ebf7699
