@@ -5,6 +5,8 @@ builds:
     version: 4.3.82.1
   c7d37b05-0706-45d5-7716-9d97df854219:
     version: 4.4.0.1
+  c9576b4c-542e-4b2a-5c75-1fa0a57a13cb:
+    version: 4.4.12.1
   e72900fc-b53a-47b0-6473-aa5bced510e0:
     version: 4.4.2.1
 format-version: "2"
