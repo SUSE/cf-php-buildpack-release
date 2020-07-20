@@ -1,5 +1,5 @@
 ---
-php-buildpack/php-buildpack-sle15-v4.4.16.1-1.1-ddbeaa14.zip:
-  size: 2905414
-  object_id: php-buildpack-sle15-v4.4.16.1-1.1-ddbeaa14.zip
-  sha: sha256:ddbeaa145840ce90c576884353a9a0928144f96fb601ac54ab085f6f2d63fc39
+php-buildpack/php-buildpack-sle15-v4.4.18.1-1.1-c83670cc.zip:
+  size: 2905560
+  object_id: php-buildpack-sle15-v4.4.18.1-1.1-c83670cc.zip
+  sha: sha256:c83670cc183a4a746ba15cc043ddb753252dcf467fd4dcd36473706d745b5d4e
