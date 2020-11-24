@@ -9,6 +9,8 @@ builds:
     version: 4.4.14.1
   404a75a9-59b2-4837-6ca9-bb197b5496f1:
     version: 4.4.20.1
+  82219bee-687c-4d39-7e99-8c728716fc50:
+    version: 4.4.26.1
   82d4e539-501e-4616-414c-b806e563b5d6:
     version: 4.4.21.1
   98dafe0f-8dcb-49c6-6896-7b97cd24c71b:
